@@ -4,3 +4,38 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+.image-link {
+  text-decoration: none;
+}
+header {
+   text-align: center;
+   margin: 0 0 80px;
+}
+.words {
+  padding: 2px 20px;
+  background: #eeeeee;
+}
+.sperm-whales-img {
+  display: block;
+  margin: 0 auto;
+}
+.main-contents {
+  style="width: 560px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.book {
+   float: left;
+   margin: 0 40px 0 0;
+}
+.cite {
+  font-style:
+  italic; font-size: 20px;
+}
+.em-words {
+  font-style: normal; 
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
